@@ -59,4 +59,4 @@ To **execute** my script on VS Code:
 - Open the file "project.ipynb" 
 - Click the 'Run All' button at the top of the screen.
 
-This should cause the script to run, including saving down plots into the folders called 'images' (for 'project.ipynb') or 'data' for ('tasks.ipynb').
+This should cause the script to run, including saving down plots into the folders called 'project_images' (for 'project.ipynb') or 'task_images' for ('tasks.ipynb').
