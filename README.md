@@ -55,8 +55,8 @@ Other files and folders found in my repository include:
 - Select "Open" when asked if you want to open the cloned repository.
 
 
-To **execute** my script on VS Code:
-- Open the file "project.ipynb" 
+To **execute** my scripts on VS Code:
+- Open the file "project.ipynb" or "tasks.ipynb"  
 - Click the 'Run All' button at the top of the screen.
 
 This should cause the script to run, including saving down plots into the folders called 'project_images' (for 'project.ipynb') or 'task_images' for ('tasks.ipynb').
